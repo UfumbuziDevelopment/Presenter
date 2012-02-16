@@ -1,0 +1,17 @@
+iPresent - A Titanium Mobile CommonJS Module
+--------------------------------------------
+
+iPresent is a CommonJS Module for Titanium Mobile that creates a presentation "overlay" on top of your existing Ti app.
+
+The purpose of this module is to allow a presenter giving a demo of a app via the iPad's built in video mirroring to highlight areas or call out features of the app with a "laser pointer", or by drawing via Appcelerator's free Ti.Paint module (https://marketplace.appcelerator.com/apps/807). This is a great tool for giving a presentation of your own app or for Enterprise Apps.
+
+Features:
+* Laser Pointer
+* Drawing via Ti.Paint Module
+* Set menu to left or right side of screen
+* Set menu's vertical position
+* Turn presentation mode on/off via App settings in IOS Settings App
+
+To do's:
+* Add ability to change drawing attributes
+* Add ability to "drag" menu around screen
